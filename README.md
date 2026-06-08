@@ -6,6 +6,26 @@
 
 [Hosted on Vercel →](https://signal-forge-ecru.vercel.app/)
 
+## Video Walkthrough
+
+🎥 Project Demonstration
+
+Watch the complete end-to-end walkthrough here:
+
+[Demo Video →](https://drive.google.com/file/d/17i8M8O-Y-4LI37GD4br1zExxyfpkedTQ/view)
+
+The walkthrough covers:
+
+- Company discovery using Ocean.io v3
+- Decision-maker identification with Prospeo
+- Email enrichment and verification
+- Personalized outreach generation
+- Brevo email delivery workflow
+- End-to-end pipeline execution
+- Live deployment demonstration
+
+> Note: Prospeo operates on a credit-based model. The production demo may use representative data when API credits are exhausted, but the walkthrough demonstrates the complete workflow and implementation.
+
 ## Pipeline
 
 ```
